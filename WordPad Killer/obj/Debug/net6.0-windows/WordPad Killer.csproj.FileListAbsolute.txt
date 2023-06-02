@@ -1,0 +1,17 @@
+D:\WinForm & WPF\WordPad Killer\WordPad Killer\bin\Debug\net6.0-windows\WordPad Killer.exe
+D:\WinForm & WPF\WordPad Killer\WordPad Killer\bin\Debug\net6.0-windows\WordPad Killer.deps.json
+D:\WinForm & WPF\WordPad Killer\WordPad Killer\bin\Debug\net6.0-windows\WordPad Killer.runtimeconfig.json
+D:\WinForm & WPF\WordPad Killer\WordPad Killer\bin\Debug\net6.0-windows\WordPad Killer.dll
+D:\WinForm & WPF\WordPad Killer\WordPad Killer\bin\Debug\net6.0-windows\WordPad Killer.pdb
+D:\WinForm & WPF\WordPad Killer\WordPad Killer\obj\Debug\net6.0-windows\WordPad Killer.csproj.AssemblyReference.cache
+D:\WinForm & WPF\WordPad Killer\WordPad Killer\obj\Debug\net6.0-windows\WordPad_Killer.Form1.resources
+D:\WinForm & WPF\WordPad Killer\WordPad Killer\obj\Debug\net6.0-windows\WordPad Killer.csproj.GenerateResource.cache
+D:\WinForm & WPF\WordPad Killer\WordPad Killer\obj\Debug\net6.0-windows\WordPad Killer.GeneratedMSBuildEditorConfig.editorconfig
+D:\WinForm & WPF\WordPad Killer\WordPad Killer\obj\Debug\net6.0-windows\WordPad Killer.AssemblyInfoInputs.cache
+D:\WinForm & WPF\WordPad Killer\WordPad Killer\obj\Debug\net6.0-windows\WordPad Killer.AssemblyInfo.cs
+D:\WinForm & WPF\WordPad Killer\WordPad Killer\obj\Debug\net6.0-windows\WordPad Killer.csproj.CoreCompileInputs.cache
+D:\WinForm & WPF\WordPad Killer\WordPad Killer\obj\Debug\net6.0-windows\WordPad Killer.dll
+D:\WinForm & WPF\WordPad Killer\WordPad Killer\obj\Debug\net6.0-windows\refint\WordPad Killer.dll
+D:\WinForm & WPF\WordPad Killer\WordPad Killer\obj\Debug\net6.0-windows\WordPad Killer.pdb
+D:\WinForm & WPF\WordPad Killer\WordPad Killer\obj\Debug\net6.0-windows\WordPad Killer.genruntimeconfig.cache
+D:\WinForm & WPF\WordPad Killer\WordPad Killer\obj\Debug\net6.0-windows\ref\WordPad Killer.dll
